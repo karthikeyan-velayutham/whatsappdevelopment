@@ -14,4 +14,7 @@
 
 8.adding status so that user can play train ganes
 
-9.add sending current location
+9.ADD block the contact
+
+10.add sending current location
+
