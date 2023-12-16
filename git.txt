@@ -8,13 +8,12 @@
 
 5. hide the whatsapp staus
 
-6.adding video call feature
+6.adding audio call feature
 
-7.adding audio call feature
+7.adding status so that user can play train ganes
 
-8.adding status so that user can play train ganes
+8.ADD block the contact
 
-9.ADD block the contact
+9.add sending current location
 
-10.add sending current location
 
